@@ -1,0 +1,1 @@
+const load_textA_13 = "potential 2016";

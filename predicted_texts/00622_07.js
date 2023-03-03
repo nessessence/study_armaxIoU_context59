@@ -1,0 +1,1 @@
+const load_textA_07 = "steel curtain";

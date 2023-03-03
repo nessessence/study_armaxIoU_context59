@@ -1,0 +1,1 @@
+const load_textA_02 = "boeing 7 family";

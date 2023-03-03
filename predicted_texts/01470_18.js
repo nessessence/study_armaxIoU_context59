@@ -1,0 +1,1 @@
+const load_textA_18 = "pair of boston";

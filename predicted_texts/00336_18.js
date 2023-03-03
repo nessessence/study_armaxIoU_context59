@@ -1,0 +1,1 @@
+const load_textA_18 = "champion lab";

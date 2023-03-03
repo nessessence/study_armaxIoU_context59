@@ -1,0 +1,1 @@
+const load_textB_07 = "tv/monitor";

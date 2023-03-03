@@ -1,0 +1,1 @@
+const load_textA_10 = "dream finger digging";

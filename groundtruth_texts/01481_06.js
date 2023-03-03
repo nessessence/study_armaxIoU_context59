@@ -1,0 +1,1 @@
+const load_textB_06 = "truck";

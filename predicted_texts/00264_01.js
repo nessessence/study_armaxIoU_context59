@@ -1,0 +1,1 @@
+const load_textA_01 = "small farm";

@@ -1,0 +1,1 @@
+const load_textA_07 = "1950's";

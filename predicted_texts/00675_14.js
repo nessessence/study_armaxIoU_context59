@@ -1,0 +1,1 @@
+const load_textA_14 = "2014 camera";

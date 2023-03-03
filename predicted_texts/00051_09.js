@@ -1,0 +1,1 @@
+const load_textA_09 = "submerged board";

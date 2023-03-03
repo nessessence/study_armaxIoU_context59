@@ -1,0 +1,1 @@
+const load_textA_05 = "suspected cat";

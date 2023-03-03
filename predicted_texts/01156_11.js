@@ -1,0 +1,1 @@
+const load_textA_11 = "portion of room";

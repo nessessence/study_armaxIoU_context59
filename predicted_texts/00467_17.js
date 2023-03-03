@@ -1,0 +1,1 @@
+const load_textA_17 = "few glasses";

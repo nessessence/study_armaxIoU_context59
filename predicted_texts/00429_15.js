@@ -1,0 +1,1 @@
+const load_textA_15 = "rare form of alzheimer's";

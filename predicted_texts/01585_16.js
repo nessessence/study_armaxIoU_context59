@@ -1,0 +1,1 @@
+const load_textA_16 = "1970";
